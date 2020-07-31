@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/acamicaBloqueDos/static/css/main.5f361e03.chunk.css",
+    "main.js": "/acamicaBloqueDos/static/js/main.3bb71bec.chunk.js",
+    "main.js.map": "/acamicaBloqueDos/static/js/main.3bb71bec.chunk.js.map",
+    "runtime-main.js": "/acamicaBloqueDos/static/js/runtime-main.f021328a.js",
+    "runtime-main.js.map": "/acamicaBloqueDos/static/js/runtime-main.f021328a.js.map",
+    "static/js/2.fdc70579.chunk.js": "/acamicaBloqueDos/static/js/2.fdc70579.chunk.js",
+    "static/js/2.fdc70579.chunk.js.map": "/acamicaBloqueDos/static/js/2.fdc70579.chunk.js.map",
+    "index.html": "/acamicaBloqueDos/index.html",
+    "precache-manifest.b09e5b9ab6a6eacf558e4882f35466c1.js": "/acamicaBloqueDos/precache-manifest.b09e5b9ab6a6eacf558e4882f35466c1.js",
+    "service-worker.js": "/acamicaBloqueDos/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/acamicaBloqueDos/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.fdc70579.chunk.js.LICENSE.txt": "/acamicaBloqueDos/static/js/2.fdc70579.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/acamicaBloqueDos/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f021328a.js",
+    "static/js/2.fdc70579.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.3bb71bec.chunk.js"
+  ]
+}
